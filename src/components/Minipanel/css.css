@@ -1,0 +1,35 @@
+.minipanel{
+        width: 200px;
+        height: 200px;
+        overflow: hidden;
+        margin: 20px;
+        border-radius: 7px;
+        border: solid 5px red;
+        float: left;
+        cursor: pointer;
+}
+
+.nft_image {
+    width: 200px;
+    height: 200px;
+    display: block;
+    border: 0 none;
+    z-index: 100;
+    position: absolute;
+}
+.nft_image:hover{
+    display: none;
+}
+
+.info_panel {
+    color: white;
+    font-size: 35px;
+    display: block;
+    z-index: 10;
+    width: 200px;
+    height: 200px;
+    border: 0 none;
+    background: red;
+    position: absolute;
+    padding-left: 5px;
+}

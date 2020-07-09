@@ -1,0 +1,18 @@
+#nft_display_meta {
+    float: left;
+    width: 400px;
+    margin-bottom: 100px;
+    margin-top: 10px;
+}
+
+.nft_display_owner_label {
+    font-size: 18px;
+    margin-top: 13px;
+    cursor: pointer;
+}
+
+.nft_display_metanode {
+    font-size: 20px;
+    margin-top: 10px;
+    cursor: pointer;
+}

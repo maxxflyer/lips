@@ -1,0 +1,34 @@
+#bg{
+ 
+    height: 300px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+            border-bottom: solid 5px red;
+  
+  }
+  #bg2{
+
+    height: 300px;
+      background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+     z-index:0;
+  
+  }
+  #bg2:after{
+    content:'';
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image:  url("") ;
+    width:100%;
+    height:300px;
+    position:absolute;
+    z-index: 0;
+    top:0;
+    left:0;
+    opacity:0.5;
+}

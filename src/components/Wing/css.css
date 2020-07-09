@@ -1,0 +1,33 @@
+#metamask{
+    float: right;
+    cursor: pointer;
+}
+#metamask_logo{
+    margin-top: 10px;
+    margin-right: 10px;
+    width: 52px;
+    height:52px;
+}
+.lips_menu {
+    cursor: pointer;
+    margin-right: 20px;
+    font-size: 32px;
+    color: red;
+    float: right;
+    margin-top: 15px;
+}
+#lips_account {
+    float: right;
+    margin-top: 10px;
+    margin-right: 10px;
+    background: red;
+    color: white;
+    font-weight: bold;
+    padding: 5px 10px 5px 10px;
+    border-radius: 25px;
+    cursor: pointer;
+    display: none;
+}
+#lips_account:hover{
+    background: magenta;
+}

@@ -1,0 +1,11 @@
+.canvas{
+    position: relative;
+    width:90%;
+    height: calc(100% - 200px);
+    padding: 20px;
+    margin: 50px;
+    background: white;
+    Border: solid 5px red;
+    Border-radius: 10px;
+    z-index:100;
+}

@@ -1,0 +1,15 @@
+#top{
+    Width: 180px;;
+    height:180px;
+    margin:auto;
+    margin-bottom: 28px;
+}
+#avatar_image {
+    cursor: pointer;
+    margin-top: 15px;
+    width: 180px;
+    height: 180px;
+    border: solid 5px red;
+    margin: auto;
+    border-radius: 95px;
+}

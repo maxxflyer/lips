@@ -1,0 +1,13 @@
+#strip{
+    width:750px;
+    margin:auto;
+    height: auto;
+    margin-top: 5px;
+    position: relative;
+    z-index: 100;
+    margin-bottom: 50px; 
+}
+
+.spacer{
+    height: 100px; 
+}

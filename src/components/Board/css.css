@@ -1,0 +1,20 @@
+#board{
+    width: 100%;
+
+}
+
+#empty{
+    background: red;
+    color: white;
+    border-radius:15px;
+    height: 30px;
+    font-size: 20px;
+    width: 200px; margin: auto;
+}
+
+
+#address_line{
+
+    font-size: 30px;
+ 
+}
