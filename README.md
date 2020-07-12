@@ -3,11 +3,11 @@ https://lips.netlify.app/?data=0xA0A5bb7B563461A586C1bd6D635Ba9Fde7315008
 
 ## CHAPTERS:
 
-#1 https://medium.com/@LordMinimal/lips-1-21b3c8ae9f6e
+#1 https://medium.com/@lips_social/lips-1-21b3c8ae9f6e
 
-#2 https://medium.com/@LordMinimal/lips-2-933da2dd2ef1
+#2 https://medium.com/@lips_social/lips-2-933da2dd2ef1
 
-#3 https://medium.com/@LordMinimal/lips-3-27b3ccd6b391
+#3 https://medium.com/@lips_social/lips-3-27b3ccd6b391
 
 
 
